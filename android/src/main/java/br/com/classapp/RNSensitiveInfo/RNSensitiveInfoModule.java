@@ -12,7 +12,7 @@ import android.security.keystore.KeyGenParameterSpec;
 import android.security.keystore.KeyInfo;
 import java.security.InvalidKeyException;
 import android.security.keystore.KeyProperties;
-import android.support.annotation.NonNull;
+import androidx.annotation.NonNull;
 import android.util.Base64;
 import android.util.Log;
 
